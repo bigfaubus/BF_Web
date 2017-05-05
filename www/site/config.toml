@@ -1,0 +1,35 @@
+baseurl = "http://bryanfaub.us"
+title = "BRYAN FAUBUS"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "BRYAN FAUBUS"
+  description = '<!--[--><!--]--><br />
+                <!--[-->Web Developer | Editor & Proofreader | Entrepreneur<!--]-->'
+  logo = "fa-bold"
+  copyright = "Bryan Faubus"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/bryanfaubus"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/bryanfaubus"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/bigfaubus"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Bryan Faubus"
