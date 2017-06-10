@@ -4,8 +4,8 @@ threadsafe: true
 
 handlers:
 - url: /
-  static_files: www/site/layouts/index.html
-  upload: www/site/layouts/index.html
+  static_files: www/app/index.html
+  upload: www/app/index.html
 
 - url: /(.*)
   static_files: www/\1
